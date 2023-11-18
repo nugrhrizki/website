@@ -34,6 +34,10 @@ Route::get('/alumni', function () {
     return view('alumni.index');
 });
 
+Route::get('/join', function () {
+    return view('join.index');
+});
+
 Route::get('/dashboard', function () {
     return view('dashboard');
 })->middleware(['auth', 'verified'])->name('dashboard');

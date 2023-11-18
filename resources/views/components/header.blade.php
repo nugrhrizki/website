@@ -1,5 +1,12 @@
+<div class="hidden md:block bg-blue-500">
+    <div
+        class="max-w-[85rem] w-full mx-auto px-4 sm:flex sm:items-center sm:justify-between sm:px-6 lg:px-8 py-2 text-white text-sm">
+        <p>Alamat Sekolah : Jln.Sayuran No 39 Desa Mekarmukti Kec. Cihampelas Kab. Bandung Barat</p>
+        <p>Email : smkn1cihampelas@yahoo.com</p>
+    </div>
+</div>
 <header
-    class="sticky top-0 inset-0 flex flex-wrap sm:justify-start sm:flex-col z-50 w-full bg-black/90 backdrop-blur-lg text-sm py-4 sm:py-0">
+    class="sticky -top-px inset-0 flex flex-wrap sm:justify-start sm:flex-col z-50 w-full bg-black/90 backdrop-blur-lg text-sm py-4 sm:py-0">
     <nav class="relative max-w-[85rem] w-full mx-auto px-4 sm:flex sm:items-center sm:justify-between sm:px-6 lg:px-8"
         aria-label="Global">
         <div class="flex items-center justify-between">
