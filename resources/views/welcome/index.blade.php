@@ -1,0 +1,17 @@
+<x-visitor-layout>
+    <x-section>
+        @include('welcome.partials.hero')
+    </x-section>
+    <x-section>
+        @include('welcome.partials.feature')
+    </x-section>
+    <x-section>
+        @include('welcome.partials.blog')
+    </x-section>
+    <x-section>
+        @include('welcome.partials.team')
+    </x-section>
+    <x-section>
+        @include('welcome.partials.faq')
+    </x-section>
+</x-visitor-layout>
